@@ -23,5 +23,5 @@ ssh:
 git clone git@github.com:agsvensson/jogosPython-Alura.git
 ```
 
-Após isto, abrir o projeto no PyCharm e executar o arquivo _jogos.py_.
+Após isto, abrir o projeto no PyCharm e executar o arquivo _jogos.py_.<BR>
 No menu é possível escolher entre dois jogos: Adivinhação e Forca.<BR>
